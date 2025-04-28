@@ -61,6 +61,7 @@
     "*.ndjson": "jsonl",
     "*.dbclient-js": "javascript",
     "*.embeddedhtml": "html",
-    "limits.h": "c"
+    "limits.h": "c",
+    "string.h": "c"
   }
 }
