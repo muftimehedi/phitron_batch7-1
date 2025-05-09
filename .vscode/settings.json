@@ -62,6 +62,10 @@
     "*.dbclient-js": "javascript",
     "*.embeddedhtml": "html",
     "limits.h": "c",
+<<<<<<< HEAD
     "string.h": "c"
+=======
+    "stdlib.h": "c"
+>>>>>>> 721a4ddf01b9af4f190a29356f09cb469f7c8900
   }
 }
